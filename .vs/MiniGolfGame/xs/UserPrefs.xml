@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F286AC53-60DD-B51A-F806-7CF062E449DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AnimationTriggerButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraSwitcher.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/GolfClub.cs" />
+      <File FileName="Assets/Scripts/CarMovement.cs" />
+      <File FileName="Assets/Scripts/AnimationTriggerButton.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniGolfGame" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8aceeb4-037a-492d-a290-85403fb0de3c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
